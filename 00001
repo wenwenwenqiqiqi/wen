@@ -1,0 +1,7 @@
+#include<stdio.h>
+void work(){
+printf("画画的baby,奔驰的小野马和带刺的玫瑰\n");
+}
+void main(){
+work();
+}
